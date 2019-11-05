@@ -1,15 +1,16 @@
+## `React Django Todo App`
 
-## `Install Backend`
+## `Backend Installation Step`
 
 pipenv shell
 
-pipenv install
+pipenv install Django
 
 python manage.py runserver
 
 server will run on (http://localhost:8000)
 
-### `client end`
+### `React Frontend Steps`
 
 cd frontend
 
@@ -17,7 +18,7 @@ npm install
 
 npm start
 
-Runs the app in the development mode.<br />
+<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
